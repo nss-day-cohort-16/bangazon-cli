@@ -134,3 +134,10 @@ You will create a series of prompts that will allow the user to create various t
 1. Start with writing unit tests. As a group, determine the core functionality of the application. Define classes and methods that you think you need to build. Do that before writing the implementation code for core logic. DO NOT WRITE TESTS FOR THE USER INTERFACE (menu and prompts).
 1. All classes and methods must be fully documented with docstrings.
 
+
+## Contributors
+* [Mark Ellis](https://github.com/markellisdev)
+* [Trent Hand](https://github.com/trenthand)
+* [Joey Kirby](https://github.com/jokirby)
+* [Whitney Cormack](https://github.com/whitneycormack)
+* [Richie VanSickle](https://github.com/richievs91)
