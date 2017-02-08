@@ -7,7 +7,7 @@ class TestCustomer(unittest.TestCase):
 
     @classmethod
     def setUpClass(self):
-        self.joey = customer.Customer('Joey', '461 East Silver St', 'Lebanon', 'Ohio', '45036', '5137033755')
+        self.joey = customer.Customer('Joey', '787 East Silver St', 'Lebanon', 'Ohio', '35622', '5551231234')
         
     def test_customer_acct_can_be_created(self):
         self.assertIsInstance(self.joey, customer.Customer)
