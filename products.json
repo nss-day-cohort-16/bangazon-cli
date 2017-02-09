@@ -1,0 +1,81 @@
+[
+    {
+	"model": "product",
+	"pk": 1,
+	"fields": {
+		"name": "9V Battery",
+		"price": 3.59
+
+	}
+}, {
+	"model": "product",
+	"pk": 2,
+	"fields": {
+		"name": "Jolt Cola",
+		"formed": 2.99
+	}
+},
+    {
+	"model": "product",
+	"pk": 3,
+	"fields": {
+		"name": "Rubber Nipples",
+		"price": 12.59
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 4,
+	"fields": {
+		"name": "Spray Cheese",
+		"price": 4.99
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 5,
+	"fields": {
+		"name": "Snickers Candy Bar",
+		"price": 1.29
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 6,
+	"fields": {
+		"name": "Cinammon Toothpicks",
+		"price": 0.99
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 7,
+	"fields": {
+		"name": "Spray Wax",
+		"price": 4.99
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 8,
+	"fields": {
+		"name": "Ball bearings",
+		"price": 3.59
+
+	}
+},
+    {
+	"model": "product",
+	"pk": 1,
+	"fields": {
+		"name": "Scented Candle",
+		"price": 7.79
+
+	}
+}
+]
