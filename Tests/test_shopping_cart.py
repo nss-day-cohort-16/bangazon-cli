@@ -11,6 +11,7 @@ class TestShoppingCart(unittest.TestCase):
     Methods:
     test_current_cart_should_be_ShoppingCart_object
     test_ShoppingCart_should_add_product
+    test_ShoppingCart_should_return_cart_total_price
     test_ShoppingCart_should_be_able_to_be_closed
     """
     
