@@ -3,7 +3,7 @@ import os
 import sqlite3
 import sys
 sys.path.append("../")
-from models.product import Product
+from models.Product import Product
 from db.product_data import ProductData
 
 
